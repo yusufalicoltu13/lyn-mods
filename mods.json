@@ -1,0 +1,104 @@
+{
+  "mods": [
+    {
+      "name": "ImmediatelyFast-Fabric-1.8.7+1.21.4.jar",
+      "sha1": "209dc1c476438f4d613e4d9d697971cef32f042a",
+      "size": 332486
+    },
+    {
+      "name": "appleskin-fabric-mc1.21.3-3.0.6.jar",
+      "sha1": "5bf91b0df04e27b94b8dff36aa782cc9f44fc2f6",
+      "size": 1095505
+    },
+    {
+      "name": "chat_heads-0.15.6-fabric-1.21.4.jar",
+      "sha1": "988b756e260660932c42a71ed1c272676d373b14",
+      "size": 85970
+    },
+    {
+      "name": "cloth-config-17.0.144-fabric.jar",
+      "sha1": "63a1a3b25c642f5a745dfcc9bdc0841660f560af",
+      "size": 1152857
+    },
+    {
+      "name": "crosshairindicator-1.0.1.jar",
+      "sha1": "78d331b1c0bdd80a2128acf38807692064b9ab22",
+      "size": 8429
+    },
+    {
+      "name": "dynamic-fps-3.11.8+minecraft-1.21.2-fabric.jar",
+      "sha1": "59df2468ef923b95980b4c78709ab3c57d9528bf",
+      "size": 222371
+    },
+    {
+      "name": "fabric-api-0.119.4+1.21.4.jar",
+      "sha1": "1c7871b6af04edc8b8f0dbad12606d67f6118a11",
+      "size": 2149128
+    },
+    {
+      "name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+      "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
+      "size": 8142878
+    },
+    {
+      "name": "ferritecore-7.1.3-fabric.jar",
+      "sha1": "7b08d3c7242b18c9e15c11d365d368dde6955a9c",
+      "size": 109879
+    },
+    {
+      "name": "fullbrightnesstoggle-fabric-1.0.1+mc1.21.4.jar",
+      "sha1": "2390460af9be91fa8a576724d3b5a20fc16e56d6",
+      "size": 94880
+    },
+    {
+      "name": "iris-fabric-1.8.8+mc1.21.4.jar",
+      "sha1": "54f7ab6450530bdca2ba44887b53458f78a256ef",
+      "size": 2682702
+    },
+    {
+      "name": "lambdynamiclights-4.1.3+1.21.4.jar",
+      "sha1": "184d228d5244d7a305358a6893d1928a37954cd6",
+      "size": 1038224
+    },
+    {
+      "name": "modmenu-13.0.4.jar",
+      "sha1": "b5d816f6df9ffb9af8f9c2b43dfb15d9bbfcf400",
+      "size": 1050885
+    },
+    {
+      "name": "notenoughanimations-fabric-1.12.7-mc1.21.4.jar",
+      "sha1": "a39a8170bd24e71fc63e890c4117f46841c68d85",
+      "size": 1880531
+    },
+    {
+      "name": "placeholder-api-2.5.2+1.21.3.jar",
+      "sha1": "841b1ef57880fc0f94a22ab268b737c3830b5595",
+      "size": 237288
+    },
+    {
+      "name": "sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+      "sha1": "c3bd0d2121653fec3c0f82a841d88e85e87f9796",
+      "size": 360180
+    },
+    {
+      "name": "sodium-fabric-0.6.13+mc1.21.4.jar",
+      "sha1": "c881d2db971207c396b5629632437f1520c0c478",
+      "size": 1306799
+    },
+    {
+      "name": "voicechat-fabric-1.21.4-2.6.22.jar",
+      "sha1": "0d6f07474d1e6ef4936299762cb83ce2aba6a965",
+      "size": 5376736
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.4-fabric.jar",
+      "sha1": "603164222915a5b2ef159a3aabae75f8bac268f7",
+      "size": 1130824
+    },
+    {
+      "name": "zoomify-2.15.2+1.21.5.jar",
+      "sha1": "165adbb9c5c26761ace81ccd2cf561d1ca18cd72",
+      "size": 872894
+    }
+  ]
+}
