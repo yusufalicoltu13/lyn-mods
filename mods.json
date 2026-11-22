@@ -219,6 +219,15 @@
       ]
     },
     {
+      "modrinth": "in-game-music-player",
+      "modrinthId": "in-game-music-player",
+      "id": "in_game_music_player",
+      "title": "In-Game Music Player",
+      "desc": "Oyun içerisinden müzik dinlemeni ve yönetmeni sağlar.",
+      "required": false,
+      "requires": []
+    },
+    {
       "modrinth": "chunky",
       "modrinthId": "fALzjamp",
       "id": "chunky",
@@ -272,41 +281,3 @@
       "required": false,
       "requires": []
     },
-    {
-      "modrinth": "betterf3",
-      "modrinthId": "8shC1gFX",
-      "id": "betterf3",
-      "title": "BetterF3",
-      "desc": "F3 hata ayıklama ekranını daha okunaklı ve özelleştirilebilir yapar.",
-      "required": false,
-      "requires": []
-    },
-    {
-      "modrinth": "ambientsounds",
-      "modrinthId": "fM515JnW",
-      "id": "ambientsounds",
-      "title": "AmbientSounds",
-      "desc": "Bulunduğun ortama göre doğa ve ortam sesleri ekler. Dosyası büyük (yaklaşık 80 MB).",
-      "required": false,
-      "requires": []
-    },
-    {
-      "modrinth": "shulkerboxtooltip",
-      "modrinthId": "2M01OLQq",
-      "id": "shulkerboxtooltip",
-      "title": "Shulker Box Tooltip",
-      "desc": "Envanterde shulker kutusunun üzerine gelince içindekileri gösterir.",
-      "required": false,
-      "requires": []
-    },
-    {
-      "modrinth": "sound-physics-remastered",
-      "modrinthId": "qyVF9oeo",
-      "id": "sound-physics-remastered",
-      "title": "Sound Physics Remastered",
-      "desc": "Yankı ve bloklardan geçerken sesin kısılması gibi gerçekçi ses efektleri ekler. 1.21.4 sürümü alfa aşamasındadır.",
-      "required": false,
-      "requires": []
-    }
-  ]
-}
