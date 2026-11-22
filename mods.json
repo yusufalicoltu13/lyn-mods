@@ -219,12 +219,21 @@
       ]
     },
     {
-      "modrinth": "spoticraft-2",
-      "modrinthId": "nFGkhDLP",
-      "id": "spoticraft",
-      "title": "SpotiCraft",
-      "desc": "Spotify'ı oyundan çıkmadan kontrol etmeni sağlar: şarkı değiştir, sesi ayarla.",
+      "modrinth": "music-player",
+      "modrinthId": "music-player",
+      "id": "music_player",
+      "title": "Music Player",
+      "desc": "Oyun içinde yerel müzik dosyalarını veya çevrimiçi ses yayınlarını dinlemeni sağlar.",
       "required": false,
+      "requires": ["u_team_core"]
+    },
+    {
+      "modrinth": "u-team-core",
+      "modrinthId": "u-team-core",
+      "id": "u_team_core",
+      "title": "U Team Core",
+      "desc": "Music Player modunun çalışması için gereken temel kütüphane.",
+      "required": true,
       "requires": []
     },
     {
@@ -313,7 +322,7 @@
       "modrinthId": "qyVF9oeo",
       "id": "sound-physics-remastered",
       "title": "Sound Physics Remastered",
-      "desc": "Yankı ve bloklardan geçerken sesin kısılması gibi gerçekçi ses efektleri ekler. 1.21.4 sürümü alfa aşamasında.",
+      "desc": "Yankı ve bloklardan geçerken sesin kısılması gibi gerçekçi ses efektleri ekler. 1.21.4 sürümü alfa aşamasındadır.",
       "required": false,
       "requires": []
     }
