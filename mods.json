@@ -104,7 +104,8 @@
       "title": "Mod Menu",
       "desc": "Oyun içinde yüklü modların listesini ve ayarlarını gösterir.",
       "required": false,
-      "requires": []
+      "requires": [],
+      "modrinthId": "mOgUt4GM"
     },
     {
       "name": "notenoughanimations-fabric-1.12.7-mc1.21.4.jar",
@@ -171,7 +172,8 @@
       "title": "Cloth Config v17",
       "desc": "Diğer modların ayar ekranları için gereken kütüphane.",
       "required": true,
-      "requires": []
+      "requires": [],
+      "modrinthId": "9s6osm5g"
     },
     {
       "name": "fabric-api-0.119.4+1.21.4.jar",
@@ -181,7 +183,8 @@
       "title": "Fabric API",
       "desc": "Modların çalışması için gereken temel kütüphane.",
       "required": true,
-      "requires": []
+      "requires": [],
+      "modrinthId": "P7dR8mSH"
     },
     {
       "name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
@@ -214,6 +217,105 @@
       "requires": [
         "fabric-api"
       ]
+    },
+    {
+      "modrinth": "spoticraft-2",
+      "modrinthId": "nFGkhDLP",
+      "id": "spoticraft",
+      "title": "SpotiCraft",
+      "desc": "Spotify'ı oyundan çıkmadan kontrol etmeni sağlar: şarkı değiştir, sesi ayarla.",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "chunky",
+      "modrinthId": "fALzjamp",
+      "id": "chunky",
+      "title": "Chunky",
+      "desc": "Dünyayı önceden üretir (chunk ön yükleme). Tek oyunculu dünyada veya kendi sunucunda gezerken takılmayı azaltır.",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "better-third-person",
+      "modrinthId": "G1s2WpNo",
+      "id": "better-third-person",
+      "title": "Better Third Person",
+      "desc": "Üçüncü kişi kamera görünümünü geliştirir.",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "chatanimation",
+      "modrinthId": "DnNYdJsx",
+      "id": "chatanimation",
+      "title": "Chat Animation",
+      "desc": "Sohbet mesajlarının yumuşak bir animasyonla belirmesini sağlar.",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "litematica",
+      "modrinthId": "bEpr0Arc",
+      "id": "litematica",
+      "title": "Litematica",
+      "desc": "Yapı şablonlarını (schematic) dünyada hayalet olarak gösterir, inşa ederken yardımcı olur.",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "fallingleaves",
+      "modrinthId": "WhbRG4iK",
+      "id": "fallingleaves",
+      "title": "Falling Leaves",
+      "desc": "Ağaç yapraklarından düşen yaprak efektleri ekler.",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "morechathistory",
+      "modrinthId": "8qkXwOnk",
+      "id": "morechathistory",
+      "title": "More Chat History",
+      "desc": "Sohbet geçmişini uzatır, eski mesajları daha uzun süre görürsün.",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "betterf3",
+      "modrinthId": "8shC1gFX",
+      "id": "betterf3",
+      "title": "BetterF3",
+      "desc": "F3 hata ayıklama ekranını daha okunaklı ve özelleştirilebilir yapar.",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "ambientsounds",
+      "modrinthId": "fM515JnW",
+      "id": "ambientsounds",
+      "title": "AmbientSounds",
+      "desc": "Bulunduğun ortama göre doğa ve ortam sesleri ekler. Dosyası büyük (yaklaşık 80 MB).",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "shulkerboxtooltip",
+      "modrinthId": "2M01OLQq",
+      "id": "shulkerboxtooltip",
+      "title": "Shulker Box Tooltip",
+      "desc": "Envanterde shulker kutusunun üzerine gelince içindekileri gösterir.",
+      "required": false,
+      "requires": []
+    },
+    {
+      "modrinth": "sound-physics-remastered",
+      "modrinthId": "qyVF9oeo",
+      "id": "sound-physics-remastered",
+      "title": "Sound Physics Remastered",
+      "desc": "Yankı ve bloklardan geçerken sesin kısılması gibi gerçekçi ses efektleri ekler. 1.21.4 sürümü alfa aşamasında.",
+      "required": false,
+      "requires": []
     }
   ]
 }
